@@ -65,5 +65,18 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 Output:
 
+applications have improved productivity, creativity, and problem solving capabilities. References
+OpenAI – Introduction to Generative AI
+IBM – What is Generative AI
+GeeksforGeeks – Architecture of Generative Models
+Wikipedia – Generative Artificial Intelligence
+Vaswani et al. – Attention Is All You Need (2017)
+Google AI Blog – Transformer Models
+Microsoft Learn – Generative AI Fundamentals
+NVIDIA – Introduction to Generative AI
+AWS – What is Generative AI
+Towards Data Science – Generative AI Articles
 
 Result:
+
+Comprehensive Report on the Fundamentals of Generative AI and Large Language Models completed 
