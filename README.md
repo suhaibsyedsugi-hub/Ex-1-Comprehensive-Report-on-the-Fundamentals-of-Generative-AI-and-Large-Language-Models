@@ -65,5 +65,36 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 Output:
 
+1. Generative AI
+Generative AI is a type of Artificial Intelligence that creates new content like text, images, audio,
+video, and code. It learns patterns from existing data and generates similar new data.
+2. Generative Models and Types
+• GANs (Generative Adversarial Networks): Two networks compete to create realistic data.
+• VAEs (Variational Autoencoders): Compress and recreate data using a latent space.
+• Transformers: Use attention mechanism; used in text models like GPT.
+• Diffusion Models: Add noise and learn to remove it to generate images.
+3. Popular AI Tools (2024)
+• ChatGPT, Gemini, Claude – Text generation
+• Midjourney, DALL·E, Stable Diffusion – Image generation
+• Runway ML, Pika, Sora – Video generation
+• GitHub Copilot – Code generation
+4. What is an LLM?
+A Large Language Model (LLM) is a deep learning model trained on large amounts of text data. It
+understands and generates human-like language using Transformer architecture.
+5. How LLMs Are Built
+• Collect large text datasets.
+• Clean and preprocess the data.
+• Convert words into tokens.
+• Train using Transformer architecture.
+• Fine-tune with human feedback.
+6. Evolution of AI (Timeline)
+• 1950 – Turing Test proposed.
+• 1956 – Birth of AI (Dartmouth Conference).
+• 1997 – Deep Blue defeats chess champion.
+• 2012 – Deep Learning breakthrough.
+• 2017 – Transformer model introduced.
+• 2022 – Generative AI boom (ChatGPT).
+• 2024 – Multimodal and video AI models.
 
 Result:
+ Comprehensive Report on the Fundamentals of Generative AI and Large Language Models created
